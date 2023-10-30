@@ -1,5 +1,5 @@
 # Special-Event
-A visionOS demo app
+A visionOS demo app. To experience it, please use this [tool](https://github.com/XRealityZone/XRApps)
 
 ## Some Screen Shot
 ![](https://user-images.githubusercontent.com/40309966/278974160-6e6f5f06-7113-4bb7-b9f0-32bffe451a62.png)
